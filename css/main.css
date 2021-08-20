@@ -10,10 +10,10 @@
     
 }
 .gato{
-    height: 100vh;
+    height: 100vh;git
     width: 100%;
 } 
-@media(max-width: 1300px){
+@media(max-width: 1400px){
         .back{
             background-image: url(../assets/images/sunny-day.jpg);
             background-size: cover;
